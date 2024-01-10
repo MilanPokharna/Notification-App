@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Kushal App</string>
+    <string name="mainDesc">Hello Kushal\n I will send you a notification every 45 mins.</string>
+</resources>
